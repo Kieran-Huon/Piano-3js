@@ -1,4 +1,5 @@
-import * as THREE from 'three';
+import * as THREE from './node_modules/three/build/three.module.js';
+
 import { GUI } from 'https://cdn.jsdelivr.net/npm/three/examples/jsm/libs/dat.gui.module.js';
 
 // Charger MIDI.js et sons
